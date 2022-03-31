@@ -1,11 +1,11 @@
 # Knapp
 
-BSD 3-Clause License
+“Commons Clause” License Condition v1.0
 
 Copyright (c) 2022, Nikhil
 All rights reserved.
 
-“Commons Clause” License Condition v1.0
+
 
 The Software is provided to you by the Licensor under the License, as defined below, subject to the following condition.
 
